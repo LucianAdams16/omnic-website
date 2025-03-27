@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="O.M.N.I.C - Advancing human potential through innovative technologies in body mechanics and cybernetic enhancements.">
+    <title>O.M.N.I.C - Empowering Tomorrow, Today</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #2f3d4c;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        section {
+            margin: 40px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #2f3d4c;
+            color: white;
+        }
+        .content-box {
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to O.M.N.I.C</h1>
+        <p>Empowering Tomorrow, Today</p>
+    </header>
+
+    <div class="container">
+        <section>
+            <div class="content-box">
+                <h2>About O.M.N.I.C</h2>
+                <p>
+                    O.M.N.I.C is a leading company dedicated to advancing the human experience through cutting-edge technologies. Our work in body mechanics, cybernetic brain enhancement, and other futuristic technologies is revolutionizing what it means to be human in the modern world. We strive to push the boundaries of human potential, integrating technology with biology to improve health, capability, and quality of life.
+                </p>
+            </div>
+        </section>
+
+        <section>
+            <div class="content-box">
+                <h2>Our Vision</h2>
+                <p>
+                    At O.M.N.I.C, we believe that the future lies in the seamless integration of technology with the human body. Our vision is to build a world where individuals can not only overcome physical limitations but enhance their cognitive abilities to achieve greatness. We focus on providing solutions that are not just about improving life but transforming the way we perceive and interact with the world.
+                </p>
+            </div>
+        </section>
+
+        <section>
+            <div class="content-box">
+                <h2>Innovative Technologies</h2>
+                <ul>
+                    <li><strong>Cybernetic Brain Enhancement:</strong> Enhancing cognitive abilities for faster thinking, better decision-making, and advanced learning capabilities.</li>
+                    <li><strong>Body Mechanics Optimization:</strong> Advanced prosthetics and body augmentations that provide greater mobility and strength.</li>
+                    <li><strong>Futuristic Health Solutions:</strong> Biotechnology that tackles chronic illnesses and improves overall human health through innovative approaches.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section>
+            <div class="content-box">
+                <h2>Contact Us</h2>
+                <p>
+                    For more information about O.M.N.I.C or to inquire about job opportunities, please reach out to us at:
+                </p>
+                <p><strong>Email:</strong> info@omnictech.com</p>
+                <p><strong>Phone:</strong> +1 (555) 123-4567</p>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 O.M.N.I.C. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
